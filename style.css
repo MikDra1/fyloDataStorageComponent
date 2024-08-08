@@ -186,6 +186,9 @@ body {
 
   .container {
     background-image: url(images/bg-desktop.png);
+    background-size: contain;
+    background-repeat: repeat-x;
+    background-position: 50% 120%;
   }
 
   .card__top {
